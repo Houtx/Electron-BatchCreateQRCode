@@ -30,12 +30,14 @@
   "devDependencies": {
     "electron": "^12.0.9",
     "electron-builder": "^22.10.5",
+    "electron-packager": "^15.4.0",
+    "electron-windows-installer": "^1.7.8",
+    "electron-userland": "0.0.1",
     "eslint": "^7.27.0",
     "eslint-config-guo": "^0.10.0"
   },
   "dependencies": {
     "@sentry/electron": "^2.4.1",
-    "electron": "^16.0.7",
     "node-xlsx": "^0.16.1",
     "qrcode": "^1.5.0"
   },

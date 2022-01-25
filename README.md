@@ -6,6 +6,8 @@
 
 下载地址：https://github.com/Houtx/Electron-BatchCreateQRCode/releases
 
+目前我只打了一个win版的安装包。
+
 ## 说明
 
 生成二维码的 Excel 文件中第一个表格
