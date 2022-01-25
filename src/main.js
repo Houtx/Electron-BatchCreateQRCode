@@ -6,7 +6,7 @@ const url = require('url');
 if (app.isPackaged) {
   const { init } = require('@sentry/electron');
   init({
-    dsn: 'https://9a9210f981ab400fae539f8436652864@sentry.io/1247880',
+    dsn: 'https://28629214afa54e5eadcb7db7c83e05f3@o1125852.ingest.sentry.io/6166308',
     captureUnhandledRejections: true,
     tags: {
       process: process.type,

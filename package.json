@@ -35,8 +35,9 @@
   },
   "dependencies": {
     "@sentry/electron": "^2.4.1",
+    "electron": "^16.0.7",
     "node-xlsx": "^0.16.1",
-    "qrcode": "^1.4.4"
+    "qrcode": "^1.5.0"
   },
   "build": {
     "appId": "com.yourtion.genqrcode",
